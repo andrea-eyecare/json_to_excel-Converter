@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import openpyxl  # optional
 import json
 from io import BytesIO
 
